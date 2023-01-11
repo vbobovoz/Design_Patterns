@@ -1,0 +1,57 @@
+Index: .idea/Singleton.iml
+===================================================================
+diff --git a/.idea/Singleton.iml b/.idea/Singleton.iml
+deleted file mode 100644
+--- a/.idea/Singleton.iml	(revision 59ba74f0bcd369cf4f275940954e626a6e4e6818)
++++ /dev/null	(revision 59ba74f0bcd369cf4f275940954e626a6e4e6818)
+@@ -1,9 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision 59ba74f0bcd369cf4f275940954e626a6e4e6818)
++++ /dev/null	(revision 59ba74f0bcd369cf4f275940954e626a6e4e6818)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision 59ba74f0bcd369cf4f275940954e626a6e4e6818)
++++ /dev/null	(revision 59ba74f0bcd369cf4f275940954e626a6e4e6818)
+@@ -1,3 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision 59ba74f0bcd369cf4f275940954e626a6e4e6818)
++++ /dev/null	(revision 59ba74f0bcd369cf4f275940954e626a6e4e6818)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/Singleton.iml" filepath="$PROJECT_DIR$/.idea/Singleton.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
